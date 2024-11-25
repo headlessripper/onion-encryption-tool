@@ -1,4 +1,5 @@
 Onion Encryption Tool - Layered Security for Your Data
+
 The Onion Encryption Tool is a robust and secure application designed to protect your data using a multi-layered encryption approach inspired by the Tor network's onion routing. Each layer of encryption wraps your data, ensuring that even if one layer is compromised, the subsequent layers maintain its confidentiality.
 
 Key Features:
